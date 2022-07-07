@@ -39,11 +39,7 @@ export default function Home() {
       <Head>
         <title>My Next.js E-commerce</title>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="preconnect" href="https://cdn.snipcart.com" />
-        <link
-          rel="stylesheet"
-          href="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.css"
-        />
+      
       </Head>
 
       <main className={styles.main}>
